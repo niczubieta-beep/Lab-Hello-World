@@ -1,3 +1,1 @@
-Testing testing 123 blah blah blah
-
-
+Hi! I'm Nicolas the creator of the website. This is an example wesbite for me to get familiar with HTML and also show case some of my favorite bands.
